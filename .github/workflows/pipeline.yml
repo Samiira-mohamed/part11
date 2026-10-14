@@ -25,3 +25,5 @@ jobs:
         run: npx playwright install --with-deps chromium
       - name: E2E tests
         run: npm run test:e2e
+      - name: Trigger deployment
+        run: curl --fail ${{ secrets.RENDER_DEPLOY_HOOK }}
