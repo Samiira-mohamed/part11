@@ -17,3 +17,5 @@ Start by running `npm install` inside the project folder
 ## Deployed app
 
 https://part11-j2sj.onrender.com
+
+This line was added in a pull request.
