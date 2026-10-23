@@ -21,3 +21,9 @@ https://part11-j2sj.onrender.com
 This line was added in a pull request.
 
 Normal change, no skip.
+
+## Links
+
+- Deployed Pokedex: https://part11-j2sj.onrender.com
+- Blog app repository (exercises 11.21-11.22): https://github.com/Samiira-mohamed/blogapp-cicd
+- Blog app deployed: https://blogapp-cicd-cep7.onrender.com
